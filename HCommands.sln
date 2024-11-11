@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFind", "HFind\HFind.csproj", "{3E129FB9-65E4-4324-8FA0-C868ED374A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFindTests", "HFindTests\HFindTests.csproj", "{3D4DFA72-2747-4BAD-B4AD-7F1620A1A91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E129FB9-65E4-4324-8FA0-C868ED374A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E129FB9-65E4-4324-8FA0-C868ED374A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E129FB9-65E4-4324-8FA0-C868ED374A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E129FB9-65E4-4324-8FA0-C868ED374A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4DFA72-2747-4BAD-B4AD-7F1620A1A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4DFA72-2747-4BAD-B4AD-7F1620A1A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4DFA72-2747-4BAD-B4AD-7F1620A1A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4DFA72-2747-4BAD-B4AD-7F1620A1A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C0DAA35-AE20-47D5-B1E9-7C083303B258}
+	EndGlobalSection
+EndGlobal
