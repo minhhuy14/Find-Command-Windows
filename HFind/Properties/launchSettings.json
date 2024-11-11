@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HFind": {
+      "commandName": "Project",
+      "commandLineArgs": "/?"
+    }
+  }
+}
