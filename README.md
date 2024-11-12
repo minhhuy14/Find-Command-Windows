@@ -8,7 +8,7 @@ This project clone the **"find"** command line feature. It includes functionalit
 3. Copy all files in the `Samples` folder and paste them into `HCommands\HFind\bin\Debug\net8.0`.
 
 ### Running from Command Line
-1. Open the command line and navigate to the `HCommands\HFind\bin\Debug\net8.0` folder.
+1. Open the command line and navigate to the `Find-Command-Windows\HFind\bin\Debug\net8.0` folder.
 2. Execute the `hfind` command with the following syntax:
    ```bash
    hfind [/v] [/c] [/n] [/i]  <search_string> <file_path>
